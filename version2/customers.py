@@ -16,7 +16,7 @@ def get_customers_from_file(customer_file_path):
     """Read customer file and return list of customer objects.
 
     Read file at customer_file_path and create a customer
-    object containingcustomer information.
+    object containing customer information.
     """
 
     customers = []
